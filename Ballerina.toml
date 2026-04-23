@@ -1,0 +1,5 @@
+[package]
+org = "dulaj"
+name = "ballerina_azlms0"
+version = "0.1.0"
+distribution = "2201.13.3"
